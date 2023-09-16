@@ -1,5 +1,5 @@
 # Read-05
-# Read-05
+
 
 ## 1. What is the purpose of CSS?
 CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features. It allows you to create visually engaging web pages and user interfaces.
